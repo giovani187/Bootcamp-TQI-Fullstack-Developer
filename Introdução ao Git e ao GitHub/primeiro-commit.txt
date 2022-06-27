@@ -1,0 +1,10 @@
+No curso de introdução ao Git e GitHub é apresentado:
+
+* Comandos básicos de terminal
+* Funcionamento do Git
+* Objetos internos do Git
+* Chave SSH e token
+* Como realizar um Commit
+* Ciclo de vida dos arquivos Git
+* Como resolver conflitos no GitHub
+
